@@ -1,6 +1,7 @@
 👋 Hi, I'm Quinn! 💻
 
 I'm a dedicated full-stack developer with over 10 years of experience crafting scalable, high-performance applications and diving deep into blockchain technology. I specialize in building innovative solutions with Node.js, TypeScript, and blockchain ecosystems like EVM, Solana, and Tron, using Rust and Go for robust, secure systems. My mission is to drive the future of decentralized finance and web development, creating tools that empower users worldwide. 🚀
+
 🛠️ Skills
 
 Languages: TypeScript 🌟, JavaScript ⚡️, Rust 🦀, Go 🐹
